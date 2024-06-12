@@ -4,9 +4,9 @@
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="400" align="right">
 
-- 🌱 I’m currently learning **NodeJs, Backend Technologies**
 
-- 💬 Ask me about **ReactJs, Tailwind CSS, Bootstrap, Wordpress**
+
+- 💬 Ask me about **ReactJs, NodeJs, ExpressJs, MongoDB, JWT, Tailwind CSS, Material UI,**
 
 - 📫 How to reach me **mitali9205@gmail.com**
 
