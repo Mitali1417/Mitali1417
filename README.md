@@ -79,8 +79,8 @@ const mitali = {
   ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mitali1417&custom_title=Mitali's%20GitHub%20Activity&theme=react-dark&bg_color=0D1117&hide_border=true) -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitali1417&show_icons=true&theme=radical&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitali1417&layout=compact&theme=radical" />
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mitali1417&theme=radical)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mitali1417&custom_title=Mitali's%20GitHub%20Activity&theme=react-dark)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mitali1417&theme=radical)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mitali1417&custom_title=Mitali's%20GitHub%20Activity&theme=react-dark) -->
 
 </div>
 
