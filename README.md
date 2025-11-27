@@ -5,6 +5,10 @@
 
 <br />
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Input%20text&section=header&reversal=true" />
+
+
 <!-- Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
