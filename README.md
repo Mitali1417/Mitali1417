@@ -68,19 +68,18 @@ const mitali = {
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### 📈 GitHub Analytics
-<!-- <div align="center">
-  <a href="https://github.com/Mitali1417">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitali1417&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitali1417&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-</div> -->
 <div align="center">
-  <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mitali1417&theme=radical&hide_border=true&background=0D1117)
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mitali1417&custom_title=Mitali's%20GitHub%20Activity&theme=react-dark&bg_color=0D1117&hide_border=true) -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitali1417&show_icons=true&theme=radical&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitali1417&layout=compact&theme=radical" />
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mitali1417&theme=radical)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mitali1417&custom_title=Mitali's%20GitHub%20Activity&theme=react-dark) -->
+
+ <a>
+    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mitali1417&theme=dark&hide_border=true&background=000000&border=EB1484&stroke=C290EB&ring=EB0390&fire=EB0000&currStreakNum=DA80EB&sideNums=C29AEB&currStreakLabel=EB0000&sideLabels=EB0093&dates=C385EB&excludeDaysLabel=EB0000" alt="GitHub Streak" /></a>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">      
+  </a>
+ <div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitali1417&theme=monokai" />
+ </div>
 
 </div>
 
@@ -106,5 +105,6 @@ const mitali = {
 </div>
 
 <div align="center">
+  <p align="center"><img src="github-user-contribution.svg" alt="Snake animation" /></p>
 ⭐ Feel free to explore my repositories and don't forget to star if you find something interesting! ⭐
 </div>
