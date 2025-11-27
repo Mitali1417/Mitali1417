@@ -67,21 +67,23 @@ const mitali = {
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 <div align="center">
-  <!-- Loader until GitHub stats load -->
-  <img src="https://i.gifer.com/YCZH.gif" alt="Loading..." width="100px" />
 
-  <!-- Actual stats -->
   <div style="display:none;" id="github-stats">
-    <a>
+    <!-- <a>
       <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
       <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitali1417&theme=dark&hide_border=true&background=000000&border=EB1484&stroke=C290EB&ring=EB0390&fire=EB0000&currStreakNum=DA80EB&sideNums=C29AEB&currStreakLabel=EB0000&sideLabels=EB0093&dates=C385EB&excludeDaysLabel=EB0000" alt="GitHub Streak" />
+      </a>
+      <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">      
+    </a> -->
+
+    
+<a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com/?user=mitali1417&theme=dark&hide_border=true&background=000000&border=EB1484&stroke=C290EB&ring=EB0390&fire=EB0000&currStreakNum=DA80EB&sideNums=C29AEB&currStreakLabel=EB0000&sideLabels=EB0093&dates=C385EB&excludeDaysLabel=EB0000" alt="GitHub Streak" />
 </a>
 
-      <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">      
-    </a>
   </div>
 </div>
 
