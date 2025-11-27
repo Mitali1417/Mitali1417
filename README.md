@@ -6,7 +6,7 @@
 <br />
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Input%20text&section=header&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&section=header&reversal=true" />
 
 
 <!-- Header -->
