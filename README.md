@@ -19,7 +19,7 @@
 <div align="center">
   <!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="380" align="right"> -->
   
-  <p align="left">
+  <p>
     Passionate frontend developer with expertise in modern web technologies. 
     I love building interactive, performant, and user-friendly applications 
     that provide exceptional digital experiences.
@@ -69,8 +69,8 @@ const mitali = {
 
 ### 📈 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitali1417&show_icons=true&theme=radical&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitali1417&layout=compact&theme=radical" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitali1417&show_icons=true&theme=radical&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitali1417&layout=compact&theme=radical" /> -->
 
  <a>
     <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
@@ -105,6 +105,5 @@ const mitali = {
 </div>
 
 <div align="center">
-  <p align="center"><img src="github-user-contribution.svg" alt="Snake animation" /></p>
 ⭐ Feel free to explore my repositories and don't forget to star if you find something interesting! ⭐
 </div>
