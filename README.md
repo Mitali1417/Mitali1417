@@ -17,7 +17,7 @@
 
 <!-- Introduction -->
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="380" align="right">
+  <!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="380" align="right"> -->
   
   <p align="left">
     Passionate frontend developer with expertise in modern web technologies. 
