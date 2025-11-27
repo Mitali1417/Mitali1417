@@ -6,9 +6,6 @@
 <br />
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&section=header&reversal=true" />
-
-
 <!-- Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -107,3 +104,5 @@ const mitali = {
 <div align="center">
 ⭐ Feel free to explore my repositories and don't forget to star if you find something interesting! ⭐
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" />
