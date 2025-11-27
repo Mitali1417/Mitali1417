@@ -106,8 +106,5 @@ const mitali = {
 </div>
 
 <div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=Mitali1417&color=blueviolet&style=flat-square)
-
 ⭐ Feel free to explore my repositories and don't forget to star if you find something interesting! ⭐
 </div>
