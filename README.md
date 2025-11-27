@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://res.cloudinary.com/duju3bhds/image/upload/v1764234011/completion_rwdw71.png" alt="MasterHead" width="100%"/>
+  <img src="https://res.cloudinary.com/duju3bhds/image/upload/v1764234505/Untitled_design_5_t2nc5d.png" alt="MasterHead" width="100%"/>
 </div>
 
 <br />
