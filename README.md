@@ -69,14 +69,14 @@ const mitali = {
 
 ### 📈 GitHub Analytics
 <div align="center">
-  <a href="https://github.com/mitali">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mitali&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/mitali1417">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mitali1417&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitali1417&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 <div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mitali&theme=radical&hide_border=true&background=0D1117)
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mitali&custom_title=Mitali's%20GitHub%20Activity&theme=react-dark&bg_color=0D1117&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mitali1417&theme=radical&hide_border=true&background=0D1117)
+  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mitali1417&custom_title=Mitali's%20GitHub%20Activity&theme=react-dark&bg_color=0D1117&hide_border=true)
 </div>
 
 ### 🎯 Current Focus
@@ -95,7 +95,7 @@ const mitali = {
 </div>
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=mitali&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=mitali1417&color=blueviolet&style=flat-square)
   <br />
   ⭐ Feel free to explore my repositories and don't forget to star if you find something interesting! ⭐
 </div>
