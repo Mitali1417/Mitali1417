@@ -69,19 +69,21 @@ const mitali = {
 
 ### 📈 GitHub Analytics
 <div align="center">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mitali1417&show_icons=true&theme=radical&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitali1417&layout=compact&theme=radical" /> -->
+  <!-- Loader until GitHub stats load -->
+  <img src="https://i.gifer.com/YCZH.gif" alt="Loading..." width="100px" />
 
- <a>
-    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-    <!-- <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=mitali1417&theme=dark&hide_border=true&background=000000&border=EB1484&stroke=C290EB&ring=EB0390&fire=EB0000&currStreakNum=DA80EB&sideNums=C29AEB&currStreakLabel=EB0000&sideLabels=EB0093&dates=C385EB&excludeDaysLabel=EB0000" alt="GitHub Streak" />
-    </a> -->
+  <!-- Actual stats -->
+  <div style="display:none;" id="github-stats">
+    <a>
+      <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitali1417&theme=dark&hide_border=true&background=000000&border=EB1484&stroke=C290EB&ring=EB0390&fire=EB0000&currStreakNum=DA80EB&sideNums=C29AEB&currStreakLabel=EB0000&sideLabels=EB0093&dates=C385EB&excludeDaysLabel=EB0000" alt="GitHub Streak" />
+      </a>
+      <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">      
+    </a>
+  </div>
+</div>
 
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mitali1417&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=594&background=EB5454" alt="GitHub Streak" /></a>
-   
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">      
-</a>
 
   
  <div align="center">
