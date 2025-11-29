@@ -47,7 +47,7 @@ const mitali = {
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,scss,redux,tailwind,materialui,nodejs,express,mongodb,git,github,figma,vscode&perline=22" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,redux,tailwind,materialui,nodejs,express,mongodb,git,github,figma,vscode&perline=22" />
 </p>
 
 ### GitHub Analytics
